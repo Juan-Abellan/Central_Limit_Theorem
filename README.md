@@ -1,6 +1,4 @@
-## Central Limit Theorem
-
-Last but not least, let's verify experimentally the Central Limit Theorem together.
+## Central_Limit_Theorem
 
 In this exercise, we will use the "tips" dataset to randomly select dinners and add their associated tips one at a time.
 
